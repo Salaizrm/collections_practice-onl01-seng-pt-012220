@@ -8,7 +8,7 @@ end
 def sort_array_desc(array2)
   
   array2.sort do | a , b |
-  a <=> b
+  b <=> a
 end
     
   
